@@ -34,7 +34,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
   logger.info('Root endpoint hit');
   res.json({ 
-    message: 'Food Turtle backend + Winston = ALIVE',
+    message: 'Food Turtle backend + Winston = ALIVE TEST',
     timestamp: new Date().toISOString()
   });
 });
