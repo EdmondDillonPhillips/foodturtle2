@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs\\.e4e472978008b272ac653aff40aa3ac74a5e712f-audit.json",
+    "files": [
+        {
+            "date": 1764468764452,
+            "name": "logs\\foodturtle-2025-11-29.log",
+            "hash": "a0f75636bcc8be2d82f1637b38f9ba0244a423b8aa2e973f12eb7e674a88f559"
+        }
+    ],
+    "hashType": "sha256"
+}
